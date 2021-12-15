@@ -81,7 +81,7 @@ footer {
 
 </article>
 </section>
-
+<img src="fed.jpg" alt="Footer Picture">
 
 
 </body>
