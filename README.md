@@ -45,7 +45,7 @@ footer {
 <body>
 
 <header>
-<h2>My Infomation</h2>
+<h2>Questions and Tests</h2>
 </header>
 
 <section>
