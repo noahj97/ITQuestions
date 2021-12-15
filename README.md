@@ -31,11 +31,6 @@ article {
 }
 
 
-section::after {
-  content: "Created on the 15-12-21";
-  display: table;
-  clear: both;
-}
 
 
 footer {
@@ -87,9 +82,7 @@ footer {
 </article>
 </section>
 
-<footer>
-<p>Fun fact about Me: Fiend for Lego .</p>
-</footer>
+
 
 </body>
 </html>
