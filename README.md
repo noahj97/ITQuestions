@@ -79,11 +79,11 @@ footer {
 <a href=" https://www.arealme.com/eq/en/">link to the test</a>
 <p>Results: 100/200</p>
 
-<img src="fed.jpg" alt="Footer Picture">
 </article>
 </section>
 
 
 
 </body>
+<img src="fed.jpg" alt="Footer Picture">
 </html>
